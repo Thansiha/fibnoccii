@@ -4,7 +4,7 @@ public class fibnociiseries {
         int num2=1;
         int num3;
 
-        System.out.print(num1 +" "+num2);
+        System.out.print(num1 +" "+num2);//to print 0 and 1
 
         for (int i=2;i<10;i++){
             num3=num1+num2;
